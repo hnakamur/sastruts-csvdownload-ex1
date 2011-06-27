@@ -1,0 +1,1 @@
+A sample application for downloading CSV files which uses org.seasar.extension.jdbc.Select#iterate for low memory footprint.
